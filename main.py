@@ -1,6 +1,6 @@
 import fileMethod
 
-nama=fileMethod.ticket_method("Nama")
+nama=fileMethod.tiket_method("Nama")
 nama.intro(39)
 
 print(" ______________________________________ ")
