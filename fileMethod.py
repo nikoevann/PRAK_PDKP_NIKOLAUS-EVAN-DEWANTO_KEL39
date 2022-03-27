@@ -1,6 +1,6 @@
-class   ticket_method:
-    def __init__(self, ticket):
-        self.ticket = ticket
+class   tiket_method:
+    def __init__(self, tiket):
+        self.tiket = tiket
 
     def intro(self, kelompok):
         print(f"Kelompok         : {kelompok} ")
